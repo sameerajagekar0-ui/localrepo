@@ -1,2 +1,2 @@
 
-This is our localrepo
+This is our localrepository
